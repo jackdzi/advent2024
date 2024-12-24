@@ -1,0 +1,1 @@
+/home/jdzialo/Documents/projects/advent2024/rust_solutions/target/debug/rust_solutions: /home/jdzialo/Documents/projects/advent2024/rust_solutions/src/day5.rs /home/jdzialo/Documents/projects/advent2024/rust_solutions/src/main.rs
